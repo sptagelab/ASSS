@@ -1,4 +1,6 @@
 # ASSS
+<img src="asss-logo.png" width="160" height="160" />
+
 International Conference / Symposium on <b>A</b>dvanced <b>S</b>ecurity on <b>S</b>oftware and <b>S</b>ystems Website
 
 ## Ongoing ASSS Events
